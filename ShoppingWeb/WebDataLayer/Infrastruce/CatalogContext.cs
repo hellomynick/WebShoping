@@ -23,6 +23,7 @@ namespace WebDataLayer.Infrastruce
         public DbSet<CatalogBrand> CatalogBrands { get; set; }
         public DbSet<CatalogItem> CatalogItems { get; set; }
         public DbSet<CatalogType> CatalogTypes { get; set; }
+        public DbSet<CatalogImage> CatalogImages { get; set; }
     }
 
     public class ShoppingWebFactory : IDesignTimeDbContextFactory<CatalogContext>

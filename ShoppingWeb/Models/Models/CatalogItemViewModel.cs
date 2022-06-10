@@ -19,7 +19,5 @@ namespace Models.Models
         public int? RestockThreshold { get; set; }
         public int? CatalogTypeId { get; set; }
         public int? CatalogBrandId { get; set; }
-        public DateTime CreateOn { get; set; }
-        public DateTime UpdateOn { get; set; }
     }
 }

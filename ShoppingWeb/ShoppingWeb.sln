@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDataLayer", "WebDataLaye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC", "WebMVC\WebMVC.csproj", "{4A0CDE7E-8B9B-432E-82B3-53774F0FC9A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationLayer", "ApplicationLayer\ApplicationLayer.csproj", "{510BA27A-1258-4B41-8026-436E00FC6252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{329ADBA0-7D2A-416D-864A-842B90241581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4A0CDE7E-8B9B-432E-82B3-53774F0FC9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0CDE7E-8B9B-432E-82B3-53774F0FC9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0CDE7E-8B9B-432E-82B3-53774F0FC9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510BA27A-1258-4B41-8026-436E00FC6252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510BA27A-1258-4B41-8026-436E00FC6252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510BA27A-1258-4B41-8026-436E00FC6252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510BA27A-1258-4B41-8026-436E00FC6252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329ADBA0-7D2A-416D-864A-842B90241581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329ADBA0-7D2A-416D-864A-842B90241581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329ADBA0-7D2A-416D-864A-842B90241581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329ADBA0-7D2A-416D-864A-842B90241581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U56Q84w0Xc0VW/TIQIrRyTFLqmsODuH50zfHDh+N23t9UXBMkPOWMy2RDodiFYf/MtN+BvwbNr/qXw9rUBrIMQ==",
+  "dgSpecHash": "wpznNFI+7gcjGkjwbOywfnVT0MZyH3Xnvy/VKA+Q3kd5n6B+7HCChEXiRF82JyAErKGnkwNUYqCsX46RC4xE8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\vutvm\\source\\repos\\ShoppingWeb\\WebDataLayer\\WebDataLayer.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.5\\microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.5\\microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.5\\microsoft.entityframeworkcore.sqlserver.6.0.5.nupkg.sha512",
-    "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.5\\microsoft.entityframeworkcore.tools.6.0.5.nupkg.sha512",
+    "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.0\\microsoft.entityframeworkcore.tools.6.0.0.nupkg.sha512",
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

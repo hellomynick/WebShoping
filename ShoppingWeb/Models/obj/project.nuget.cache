@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydjsLvnEzJCBltnNXV9De94fbSSNA0I9Ax0JiA11J97AABo5R0HQ0WMOpgYWI+ZbM0blZLwSd0EV6B1ogECAwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vutvm\\source\\repos\\ShoppingWeb\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\vutvm\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\vutvm\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

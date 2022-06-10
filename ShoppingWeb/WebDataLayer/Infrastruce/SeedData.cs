@@ -58,12 +58,18 @@ namespace WebDataLayer.Infrastruce
             new CatalogItem()
             {
                 Id = 1,
-                ProductName = "Combo Chicken KFC for 2 people",
+                ProductName = "Combo Chicken KFC",
+                Description = "Combo for 2 people",
                 Price = 20,
-                PriceDiscount = ,
-
+                Discount = 0,
+                PriceDiscount = 20,
+                MaxStockThreshold = 100,
+                CreateOn = DateTime.Now,
+                AvailableStock = 100,
+                CatalogBrandId = 2,
+                CatalogTypeId = 1,
             }
-            );
+            ) ;
         }
     }
 }

@@ -16,6 +16,9 @@ namespace WebDataLayer.Infrastruce
             builder.ApplyConfiguration(new CatalogBrandEntityTypeConfiguration());
             builder.ApplyConfiguration(new CatalogItemEntityTypeConfiguration());
             builder.ApplyConfiguration(new CatalogTypeEntityTypeConfiguration());
+
+            //SeedData
+            builder.Seed();
         }
         public DbSet<CatalogBrand> CatalogBrands { get; set; }
         public DbSet<CatalogItem> CatalogItems { get; set; }

@@ -20,8 +20,9 @@ namespace WebDataLayer.Infrastruce.EntityTypeConfiguratons
             builder.Property(ci => ci.PriceDiscount).IsRequired(false);
             builder.Property(ci => ci.Discount).IsRequired(false);
             builder.Property(ci => ci.Description).IsRequired(false);
-            builder.Property(ci => ci.PictureName).IsRequired(false);
-            builder.Ignore(ci => ci.PictureUri);
+            builder.Property(ci => ci.MaxStockThreshold).IsRequired(false);
+            builder.Property(ci => ci.RestockThreshold).IsRequired(false);
+            builder.Property(ci => ci.AvailableStock).IsRequired(true);
             builder.Property(ci => ci.CreateOn).IsRequired(true);
             builder.Property(ci => ci.CatalogBrandId).IsRequired(false);
             builder.HasOne(ci => ci.CatalogBrand).WithMany().HasForeignKey(ci => ci.CatalogBrandId);

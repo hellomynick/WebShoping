@@ -1,0 +1,14 @@
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\bin\Debug\net6.0\WebDataLayer.deps.json
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\bin\Debug\net6.0\WebDataLayer.runtimeconfig.json
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\bin\Debug\net6.0\WebDataLayer.dll
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\bin\Debug\net6.0\WebDataLayer.pdb
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.csproj.AssemblyReference.cache
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.AssemblyInfoInputs.cache
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.AssemblyInfo.cs
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.dll
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\refint\WebDataLayer.dll
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.pdb
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\WebDataLayer.genruntimeconfig.cache
+C:\Users\vutvm\source\repos\ShoppingWeb\WebDataLayer\obj\Debug\net6.0\ref\WebDataLayer.dll

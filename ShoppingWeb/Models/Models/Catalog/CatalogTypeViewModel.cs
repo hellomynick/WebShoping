@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models.Models
+namespace Models.Models.Catalog
 {
     public class CatalogTypeViewModel
     {
         public int Id { get; set; }
-        public string  TypeName { get; set; }
+        public string TypeName { get; set; }
     }
 }
